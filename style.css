@@ -1,0 +1,44 @@
+.mf {
+  font-family: "Quattrocento Sans", sans-serif;
+  text-align: center;
+  background-color: #1369c6;
+  padding: 20px;
+}
+
+.rs {
+  display: block;
+
+  margin-right: auto;
+  width: 20%;
+  height: 20%;
+  background-color: #efefef;
+  padding: 30px;
+}
+
+.kdb {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 20%;
+  height: 20%;
+  background-color: #efefef;
+  padding: 30px;
+}
+
+.sa {
+  display: block;
+  margin-left: auto;
+  width: 20%;
+  height: 20%;
+  background-color: #efefef;
+  padding: 30px;
+}
+
+.kw {
+  display: block;
+  margin-right: auto;
+  width: 20%;
+  height: 20%;
+  background-color: #efefef;
+  padding: 30px;
+}
